@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 2.4.4
+**Datum:** 2026.07.09
+
+### ✨ Neu
+- UI-Sprache folgt dem System: Englisch bei englischem System, sonst Deutsch
+
 ## Version 2.4.3
 **Datum:** 2026.07.09
 
