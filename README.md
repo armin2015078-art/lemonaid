@@ -13,3 +13,6 @@ Im Shop schaltest du mit deinem Highscore neue **Zitronen-** und **Schiff-Skins*
 
 ## 💾 Fortschritt
 Dein Stand bleibt gespeichert: aktuelle Welle, Punkte, Highscore und ausgewählte Skins — auch nach einem Update.
+
+## 📝 Changelog
+Alle Änderungen und Versionen findest du im [**Changelog**](changelog.md).
