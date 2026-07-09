@@ -1,5 +1,15 @@
 # Changelog
 
+## Version 2.4.7
+**Datum:** 2026.07.09
+
+### 🐛 Fehler behoben
+- Auto-Update hat `Lemonaid.exe` nicht zuverlässig ersetzt (Dialog kam nach Neustart erneut)
+- Updater wartet jetzt, bis das Spiel wirklich beendet ist, bevor Dateien kopiert werden
+- EXE wird per Rename-Trick ersetzt; Größe wird danach geprüft
+- Installierte Version wird in `version.txt` gespeichert
+- Update-Fehler werden in `%LOCALAPPDATA%\Lemonaid\update.log` protokolliert
+
 ## Version 2.4.6
 **Datum:** 2026.07.09
 
