@@ -3,6 +3,10 @@
 ## Version 2.4.2
 **Datum:** 2026.07.09
 
+### ✨ Neu
+- Shop auch aus dem Pause-Menü erreichbar
+- Skin-Wechsel gilt sofort für alle Zitronen und das Raumschiff
+
 ### 🐛 Fehler behoben
 - EXE-Update hat nicht korrekt angewendet
 - Fortschritt konnte bei kaputten Saves crashen
