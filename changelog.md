@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 2.4.5
+**Datum:** 2026.07.09
+
+### 🔧 Änderungen
+- Normal Zeit von 30 auf 20 Sekunden
+
 ## Version 2.4.4
 **Datum:** 2026.07.09
 
