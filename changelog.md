@@ -1,5 +1,15 @@
 # Changelog
 
+## Version 2.4.3
+**Datum:** 2026.07.09
+
+### ✨ Neu
+- Einstellungsmenü (Musik, Effekte, Bildschirmwackeln)
+- Fortschritt zurücksetzen in die Einstellungen verschoben
+
+### 🔧 Änderungen
+- Versionsanzeige oben rechts
+
 ## Version 2.4.2
 **Datum:** 2026.07.09
 
