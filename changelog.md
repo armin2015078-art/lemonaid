@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 2.4.6
+**Datum:** 2026.07.09
+
+### 🔧 Änderungen
+- Zitronen Partikel
+
 ## Version 2.4.5
 **Datum:** 2026.07.09
 
