@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 2.4.5
+**Datum:** 2026.07.09
+
+### ✨ Neu
+- Phasen-Ziele (Punkte oder Kills) mit Bonuspunkten — ohne Bestrafung bei Miss
+
 ## Version 2.4.4
 **Datum:** 2026.07.09
 
